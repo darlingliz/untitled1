@@ -7,6 +7,7 @@ public class a {
         System.out.println("hello4 hot-fix second");
         System.out.println("hello5 hot-fix third");
         System.out.println("hello6 master 6");
+        System.out.println("hello6 hot-fix 6");
 
     }
 }
