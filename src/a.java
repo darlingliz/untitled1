@@ -11,6 +11,8 @@ public class a {
         System.out.println("hello today");
         System.out.println("hello,我是本地库中的修改");
         System.out.println("hello,我是本地库中的修改2222");
+        System.out.println("本地库也修改了");
+
         System.out.println("远程库也修改了");
 
     }
